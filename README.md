@@ -1,5 +1,5 @@
 # New York Baseball Team Popularity
-Since 1963, there have been two Major League Baseball teams in New York, the Mets and the Yankees.  Each team's popularity has fluctuated over time.  We will create a visualization that attempts to answer the question 'Who has been New York's most popular baseball team since 1962?'
+Since 1962, there have been two Major League Baseball teams in New York, the Mets and the Yankees.  Each team's popularity has fluctuated over time.  We will create a visualization that attempts to answer the question 'Who has been New York's most popular baseball team since 1962?'
 
 ## System Requirements
 Built for Python 3.7.3, Pandas 0.24.2, NumPy 1.16.4, and Matplotlib 3.1.0
